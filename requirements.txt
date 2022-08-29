@@ -1,3 +1,3 @@
-altair
+xgboost
 pandas
 streamlit
